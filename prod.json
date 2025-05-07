@@ -1,5 +1,5 @@
 {
-  "webviewUrl": "https://fantasy-rugby.netlify.app",
+  "webviewUrl": "http://localhost:5173/",
   "minAppVersion": "1",
   "updateUrl": "https://scrummy-app.com/?upgrade=1"
 }
