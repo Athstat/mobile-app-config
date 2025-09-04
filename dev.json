@@ -1,5 +1,5 @@
 {
   "webviewUrl": "https://scrummy-app.ai/",
   "minAppVersion": "1",
-  "updateUrl": "https://scrummy-app.ai/signin/update"
+  "updateUrl": "https://scrummy-app.ai/update"
 }
